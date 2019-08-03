@@ -182,11 +182,11 @@ ul.submenu li a{
 	text-align:center;
 }
 #menu li a.active {
-    color: #007bff;
+    color: #073b4b;
 }
 
 ul.submenu li a:hover{
-    color: #007bff;
+    color: #073b4b;
 }
 ul.submenu:before {
         position: absolute;
@@ -318,7 +318,7 @@ strong.text-theme {
 }
 
 .w3pvt-abt-right h4 {
-    color: #007bff;
+    color: #073b4b;
     font-size: 2em;
     font-weight: 600;
     /* text-shadow: 3px 3px 4px #a9a9a9; */
@@ -1171,12 +1171,12 @@ form.subscribe-wthree button[type="submit"] {
     color: #fff;
     cursor: pointer;
 }form.subscribe-wthree button[type="submit"]:hover {
-    background-color: #007bff;}
+    background-color: #073b4b;}
 
 .subscribe h5 {
     margin-bottom: 3em;
     font-size: 2.5em;
-    color: #007bff;
+    color: #073b4b;
     font-weight: 600;
     /* text-shadow: 3px 3px 4px #a9a9a9; */
 }
@@ -1218,7 +1218,7 @@ form.register-wthree .form-control {
 .w3_pvt-contact-top h4 {
     text-transform: capitalize;
     margin-bottom: 1em;
-    color: #007bff;    font-weight: 600;
+    color: #073b4b;    font-weight: 600;
 }
 
 .w3_pvt-contact-top ul li span {
@@ -1322,7 +1322,7 @@ ul.footer-link li a {
     text-transform: capitalize;
     font-size: 1em;
 }ul.footer-link li a:hover{
-   color: #007bff;}
+   color: #073b4b;}
 
 span.icon_twitter {
     background: #1da1f2;
@@ -1735,7 +1735,7 @@ a.page-disabled, a.page-next {
     margin:20px 0 20px 0;/*設定距離頂部20畫素*/
     font-size:0;/*修復行內元素之間空隙間隔*/
     text-align:center;/*設定內容居中顯示*/
-    /* background-color: #007bff; */
+    /* background-color: #073b4b; */
 }
 
 /*設定共有的的樣式佈局，主要是進行程式碼優化，提高執行效率*/
