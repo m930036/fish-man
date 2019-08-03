@@ -134,8 +134,7 @@ label.menulist:after{
   transition:border-bottom .1s, border-top .1s .1s;
   }
 
-label.menulist:hover,
-input:checked ~ label{}
+
 
 input#check01:checked ~ label.menulist:after{
   content:"\f00d";
