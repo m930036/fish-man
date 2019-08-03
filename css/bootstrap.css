@@ -169,7 +169,7 @@ a {
 }
 
 a:hover {
-  color: #0056b3;
+  color: #073b4b;
   text-decoration: underline;
 }
 
@@ -2516,7 +2516,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
-.btn:hover{ background-color: #007bff;}, .btn:focus {
+.btn:hover{ background-color: #007bff;} .btn:focus {
   text-decoration: none;
 }
 
@@ -3093,7 +3093,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:hover {
-  color: #0056b3;
+  color: #073b4b;
   text-decoration: underline;
   background-color: transparent;
   border-color: transparent;
@@ -4783,7 +4783,7 @@ tbody.collapse.show {
 }
 
 .page-link:hover {
-  color: #0056b3;
+  color: #073b4b;
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;
@@ -7739,7 +7739,7 @@ button.bg-dark:focus {
 .py-5,.py-6{
   padding-bottom: 2rem !important;
 } */
-.pb-5,{
+.pb-5{
   padding-bottom: 2rem !important;
 }
 
@@ -7993,10 +7993,7 @@ button.bg-dark:focus {
   .px-sm-5 {
     padding-right: 3rem !important;
   }
-  .pb-sm-5,
-  .py-sm-5 {
-    /* padding-bottom: 3rem !important; */
-  }
+ 
   .pl-sm-5,
   .px-sm-5 {
     padding-left: 3rem !important;
